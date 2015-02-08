@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : bgw.cpp
-// Author      : 
+// Author      :
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!!Hello World!!! Je t'aime!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
